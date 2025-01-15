@@ -6,6 +6,8 @@ https://1280px.github.io/hueblocks/
 https://www.plotz.co.uk/
 Color Codes
 https://htmlcolorcodes.com/minecraft-color-codes/
+Color Block Translator
+https://blockcolors.app/
 
 Emojis
 
